@@ -1,3 +1,3 @@
-# PRACTICAS-SCRIPT
-PRACTICAS CON JAVA SCRIPT
+# PRACTICAS-CSS GRID
+PRACTICAS CSS GRID
 Son series de practicas realizada como curso de programacion web.
